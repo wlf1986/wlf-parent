@@ -1,0 +1,6 @@
+com\free\devtools\generator\GenerateElements.class
+com\free\devtools\generator\Run.class
+com\free\devtools\generator\Example.class
+com\free\devtools\generator\AbstractGenerator.class
+com\free\devtools\generator\Generator.class
+com\free\devtools\generator\impl\GeneratorImpl.class
